@@ -1,7 +1,7 @@
 # SQL_And_PowerBI
 📊 Data Analysis Projects
 
-🌟 Overview
+🌟
 Welcome to my Data Analysis portfolio! This repository showcases various data analysis projects I've completed using SQL and Power BI. Each project involves analyzing real-world datasets to extract actionable insights. Data modeling and key performance indicators (KPIs) play a significant role in these analyses, ensuring that the insights are both accurate and relevant.
 
 ![Real World 1](https://github.com/user-attachments/assets/a667de74-d201-4d48-924e-7d8381ecc321)
