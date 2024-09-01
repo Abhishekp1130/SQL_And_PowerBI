@@ -13,8 +13,8 @@ Welcome to my Data Analysis portfolio! This repository showcases various data an
 ![pb1(2)](https://github.com/user-attachments/assets/aab19338-4f2b-404b-8188-adf4c2364791)
 
 🚀 Projects
-1. 💼 Sales Insights of a Medium-Sized Company
-Objective: Analyze a SQL data dump to provide comprehensive sales insights for a medium-sized company.
+1. 💼 Sales Insights of a Company
+Objective: Analyze a SQL data dump to provide comprehensive sales insights for a company.
 
 Tools Used: SQL, Power BI
 
