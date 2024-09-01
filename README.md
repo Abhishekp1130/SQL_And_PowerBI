@@ -23,6 +23,8 @@ Key Highlights:
 🛠️ Extracted and transformed raw sales data from the SQL database.
 📈 Created detailed visualizations and reports in Power BI to illustrate sales performance across different product categories, regions, and time periods.
 🔍 Identified key trends and patterns, providing actionable recommendations to optimize sales strategy.
+
+
 2. 📱 Mobile Sales Analysis
 Objective: Perform a deep dive into mobile sales data to understand market trends and consumer behavior.
 
@@ -34,6 +36,8 @@ Key Highlights:
 📊 Built interactive Power BI dashboards to visualize sales performance and market trends.
 💡 Derived insights into customer preferences and purchasing behaviors, helping to inform future product development and marketing strategies.
 3. 👟 Adidas Sales Analysis
+
+
 Objective: Analyze Adidas sales data to uncover patterns and trends that can drive business decisions.
 
 Tools Used: Power BI, Power Query Editor
