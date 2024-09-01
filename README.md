@@ -35,9 +35,9 @@ Key Highlights:
 🔍 Analyzed mobile sales data to identify top-performing models, regions, and customer segments.
 📊 Built interactive Power BI dashboards to visualize sales performance and market trends.
 💡 Derived insights into customer preferences and purchasing behaviors, helping to inform future product development and marketing strategies.
+
+
 3. 👟 Adidas Sales Analysis
-
-
 Objective: Analyze Adidas sales data to uncover patterns and trends that can drive business decisions.
 
 Tools Used: Power BI, Power Query Editor
